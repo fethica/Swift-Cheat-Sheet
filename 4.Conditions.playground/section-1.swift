@@ -47,7 +47,7 @@ default:
 
 // Code required for all cases
 
-// switch statement with rages
+// switch statement with ranges
 
 switch hightScore {
 
